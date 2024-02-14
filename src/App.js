@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import ProductData from "./components/ProductData";
 
-const API = "http://tz-bff:8080/api/v1/product";
+const API = "http://0.0.0.0:8080/api/v1/product";
 
 const App = () => {
 
